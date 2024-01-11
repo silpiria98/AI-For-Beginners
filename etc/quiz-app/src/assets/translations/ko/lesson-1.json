@@ -1,0 +1,115 @@
+[
+    {
+      "title": "초보자를 위한 인공지능: 큊,",
+      "complete": "축하합니다, 퀴즈를 맞추셨습니다!",
+      "error": "틀렸습니다, 다시 풀어보세요",
+      "quizzes": [
+        {
+          "id": 101,
+          "title": "AI 소개: 사전 퀴즈",
+          "quiz": [
+            {
+              "questionText": "19세기 최초의 컴퓨터 개발자로 유명한 사람은",
+              "answerOptions": [
+                {
+                  "answerText": "찰스 바클리(Charles Barkley)",
+                  "isCorrect": false
+                },
+                {
+                  "answerText": "찰스 배비지(Charles Babbage)",
+                  "isCorrect": true
+                },
+                {
+                  "answerText": "찰스 다윈(Charles Darwin)",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "questionText": "약한 AI는 다양한 문제를 해결하도록 만들어졌다.",
+              "answerOptions": [
+                {
+                  "answerText": "True",
+                  "isCorrect": false
+                },
+                {
+                  "answerText": "False",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "questionText": "챗봇은 진정한 인공지능 시스템의 예시이다.",
+              "answerOptions": [
+                {
+                  "answerText": "false, 많은 규칙으로 만들어 지기 때문이다.",
+                  "isCorrect": false
+                },
+                {
+                  "answerText": "true, 충분히 '지능적'이라고 간주된다.",
+                  "isCorrect": false
+                },
+                {
+                  "answerText": "false, 하지만 점점 정교해지면서 튜링테스트를 통과할 가능성이 높아지고 있다.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 201,
+          "title": "AI 소개: 학습 후 퀴즈",
+          "quiz": [
+            {
+              "questionText": "AI 추론에서 탑다운 방식을 부르는 말은",
+              "answerOptions": [
+                {
+                  "answerText": "strategic reasoning",
+                  "isCorrect": false
+                },
+                {
+                  "answerText": "symbolic reasoning",
+                  "isCorrect": true
+                },
+                {
+                  "answerText": "synergistic reasoning",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "questionText": "A bottom-up approach to AI is based on neural networks",
+              "answerOptions": [
+                {
+                  "answerText": "True",
+                  "isCorrect": true
+                },
+                {
+                  "answerText": "False",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "questionText": "The AI Winter occurred in this era",
+              "answerOptions": [
+                {
+                  "answerText": "1950s",
+                  "isCorrect": false
+                },
+                {
+                  "answerText": "1960s",
+                  "isCorrect": false
+                },
+                {
+                  "answerText": "1970s",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
